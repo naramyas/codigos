@@ -5,6 +5,8 @@
 
 import datetime
 
+print("hola")
+
 
 def creacionUsuario():
     while True:
